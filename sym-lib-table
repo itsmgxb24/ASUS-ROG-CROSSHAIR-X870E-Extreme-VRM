@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "AsusVRMlib") (type "KiCad") (uri "${KIPRJMOD}/sus-backups/AsusVRMlib.kicad_sym") (options "") (descr ""))
+)
